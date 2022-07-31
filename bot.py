@@ -146,38 +146,38 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "TheXArmy"
+channel = "@Z_9_6"
 menu = '''
 
-**NOTICE JOIN @TheXArmy FEDERATION**
+**NOTICE JOIN @Z_9_67 FEDERATION**
 FED ID `2936f6a8-cc1d-4f76-ac1f-ac752fe5caef`
 
 
-A: [check user own groups and channels]
+A: [معرفه قنوات/كروبات التي يملكها]
 
-B: [check user all information like phone number usrname...]
+B:  [جلب جميع معلومات المستخدم مثل {رقم الحساب ، معرف المستخدم و ايدي الشخص...]
 
-C: [ban a group {give me StringSession and channel/group username i will ban all members there}]
+C: [تفليش كروب/قناه {اعطني الكود و بعدها ارسل لي يوزر الكروب/القناه و ساطرد جميع اعضاء}]
 
-D: [know user last otp {1st use option B take phone number and login there Account then use me i will give you otp}]
+D: [جلب اخر رساله تحتوي على كود تسجيل دخول الى الحساب عن طريق كود ترمكس}]
 
-E: [Join A Group/Channel via StringSession]
+E: [انضمام الى كروب/قناه عن طريق كود ترمكس]
 
-F: [Leave A Group/Channel via StringSession]
+F: [مغادره كروب /قناه عن طريق كود ترمكس]
 
-G: [Delete A Group/Channel]
+G: [[مسح كروب /قناه عن عن طريق كود ترمكس]
 
-H: [Check user two step is eneable or disable]
+H: [تاكد من التحقق بخطوتين /مفعل او لا]
 
-I: [Terminate All current active sessions except Your StringSession]
+I:[انهاء جميع الجلسات ما عدا جلسة البوت]
 
-J: [Delete Account]
+J: [حذف الحساب]
 
-K: [Demote all admins in a group/channel]
+K: [حذف جميع المشرفين في كروب/قناه]
 
-L: [Promote a member in a group/channel]
+L: [ [ترقيه عضو الى مشرف داخل كروب/قناه]
 
-M: [Change Phone number using StringSession]
+M: [تغيير الرقم عن طريق كود تيرمكس]
 
 I ADD MORE FEATURES LATER 😆
 '''
