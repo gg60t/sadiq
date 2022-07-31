@@ -1,7 +1,7 @@
 {
-    "name": "LEGENDX BOT",
+    "name": "بوت اختراق كود تيرمكس",
     "description": "A bot CAN DO ANYTHING",
-    "logo": "",
+    "logo": "https://telegra.ph/file/4849fb3def89451544b94.jpg",
     "keywords": [
         "TELETHON",
         "X ARMY",
@@ -13,15 +13,19 @@
     "success_url": "https://telegram.dog/LEGENDX22",
     "env": {
         "BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "ادخل توكن البوت الخاص بك",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "ادخل ايبي هاش الخاص بك",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "ادخل ايبي ايدي الخاص بك",
+            "value": ""
+        },
+        "DEV": {
+            "description": "@ ادخل معرف حسابك التليكرام الخاص بك بدون",
             "value": ""
         }
     },
